@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello everyone! I'm Nandula Perera 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nandulaperera&show_icons=true&bg_color=000000&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+
+![My Language Proficiency](https://github-readme-stats.vercel.app/api/top-langs/?username=nandulaperera&layout=compact)
 <!--
 **nandulaperera/nandulaperera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
